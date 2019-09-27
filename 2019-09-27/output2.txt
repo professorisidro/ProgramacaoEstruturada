@@ -1,0 +1,2 @@
+Digite as horas no padrao HH:MM
+Sao exatamente 23 horas e 30 minutos
